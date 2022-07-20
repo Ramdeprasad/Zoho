@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/jstl-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/jakarta.servlet.jsp.jstl-api-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/jakarta.servlet.jsp.jstl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/jedis-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jackson-annotations-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jackson-core-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jackson-databind-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jackson-dataformat-xml-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jackson-datatype-jsr310-2.13.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jjwt-api-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jjwt-impl-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/jjwt-jackson-0.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/stax2-api-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/twilio-8.33.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyadarshini/Desktop/Jar Files/Twilio/woodstox-core-6.2.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

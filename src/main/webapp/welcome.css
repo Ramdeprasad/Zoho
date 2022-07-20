@@ -1,0 +1,21 @@
+body{
+  margin-top: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+h4 {
+  text-transform: uppercase;
+}
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+  margin-top: 15px;
+}
+.panel-footer {
+  padding: 5px;
+  height: 40px;
+}
+
